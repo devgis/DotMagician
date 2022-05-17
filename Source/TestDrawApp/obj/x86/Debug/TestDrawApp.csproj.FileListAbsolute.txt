@@ -1,0 +1,7 @@
+E:\Temps\TestDrawApp\TestDrawApp\obj\x86\Debug\TestDrawApp.Properties.Resources.resources
+E:\Temps\TestDrawApp\TestDrawApp\obj\x86\Debug\TestDrawApp.csproj.GenerateResource.Cache
+E:\Temps\TestDrawApp\TestDrawApp\bin\Debug\TestDrawApp.exe
+E:\Temps\TestDrawApp\TestDrawApp\bin\Debug\TestDrawApp.pdb
+E:\Temps\TestDrawApp\TestDrawApp\obj\x86\Debug\TestDrawApp.exe
+E:\Temps\TestDrawApp\TestDrawApp\obj\x86\Debug\TestDrawApp.pdb
+E:\Temps\TestDrawApp\TestDrawApp\obj\x86\Debug\TestDrawApp.MainForm.resources
